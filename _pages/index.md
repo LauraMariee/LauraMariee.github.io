@@ -1,1 +1,1 @@
-[a link](../other_file.md)
+[a link](_pages/other_file.md)
