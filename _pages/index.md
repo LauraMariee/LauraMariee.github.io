@@ -1,1 +1,1 @@
-[a link](_pages/other_file.md)
+[a link](about_me.md)
