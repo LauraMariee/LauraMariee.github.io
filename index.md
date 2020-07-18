@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to my site! 
 
-_yay_
-[a link](about_me.md)
+[To know more about me, click here!](about_me.md)
+
 
 [back](./)
 
