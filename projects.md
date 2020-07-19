@@ -1,4 +1,13 @@
-Welcome! This is the page where I will write about the development process of the projects I can talk about. 
+# Projects
 
-- FPS
-- Bingo Generator
+## 2D
+- [Run Sebbi, Run!](sebbiRun.md) 
+- [The Floor is Lava!](lavaFloor.md)
+
+## 3D
+- [Spell Shooter](spellShooter.md)
+- [Duck Game](duckGame.md)
+
+
+
+![Run Sebbit, Run!](sebbiRun.png)
