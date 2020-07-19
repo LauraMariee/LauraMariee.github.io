@@ -5,23 +5,20 @@
 
 ## Concept
 
-Lorem Ipsum
+2D Sidescroller 
 
 ## Art 
 
-Lorem Ipsum
+Pixel Art
 
 ## Current Status
 
-Lorem Ipsum
+Completed 
 
 ## Documentation
 
-Lorem Ipsum
+Mechanics: Space Bar to jump. 
 
-## Documentation
-
-Lorem Ipsum
 
 
 
