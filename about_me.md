@@ -2,7 +2,7 @@
 
 Hey! I'm Laura and I'm a Game Developer/ 3D artist based in Frankfurt.
 
-![Image Text](_images/me.jpg)
+![Image Text](me.jpg)
 
 
 I like using Unity3D, Blender, Unreal Engine 4 and Gamemaker Studio. I also can create full design concepts for software - art and all!
