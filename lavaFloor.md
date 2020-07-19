@@ -3,23 +3,17 @@
 ![FloorIsLavaBanner](lavaFloor.png)
 
 
-## Concept
-
+## Concept:
 2D Sidescroller 
 
-## Art 
-
+## Art: 
 Pixel Art
 
-## Current Status
-
+## Current Status:
 Completed 
 
-## Documentation
-
+## Documentation:
 Mechanics: Space Bar to jump. 
-
-
 
 
 
