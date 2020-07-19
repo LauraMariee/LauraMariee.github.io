@@ -1,6 +1,7 @@
 # The Floor is Lava! 
 
-![FloorIsLavaBanner](_images/lavaFloor.png)
+![FloorIsLavaBanner](lavaFloor.png)
+
 
 ## Concept
 
@@ -17,5 +18,12 @@ Lorem Ipsum
 ## Documentation
 
 Lorem Ipsum
+
+## Documentation
+
+Lorem Ipsum
+
+
+
 
 [Back to projects](projects.md)

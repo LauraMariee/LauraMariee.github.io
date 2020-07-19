@@ -10,5 +10,5 @@
 
 
 
-![Run Sebbi, Run!](/_images/sebbiRun.png)
-![Spell Shooter](/_images/fps.png)
+![Run Sebbi, Run!](sebbiRun.png)
+![Spell Shooter](fps.png)

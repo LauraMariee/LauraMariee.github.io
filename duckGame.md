@@ -1,6 +1,6 @@
 # Duck Game
 
-![DuckGameBanner](_images/duckGame.png)
+![DuckGameBanner](duckGame.png)
 
 ## Concept
 
@@ -21,5 +21,7 @@ Lorem Ipsum
 ## Documentation
 
 Lorem Ipsum
+
+
 
 [Back to projects](projects.md)
