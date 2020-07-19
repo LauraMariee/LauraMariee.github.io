@@ -1,7 +1,7 @@
 # Projects
 
 ## 2D
-- [Run Sebbi, Run!](sebbiRun.md) 
+- [Run Sebbi, Run!](SebbiRun.md) 
 - [The Floor is Lava!](lavaFloor.md)
 
 ## 3D

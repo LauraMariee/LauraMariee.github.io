@@ -4,10 +4,20 @@
 
 ## Concept
 
+Lorem Ipsum
+
 ## Art 
+
+Lorem Ipsum
 
 ## Current Status
 
+Lorem Ipsum
+
 ## Documentation
 
-[Back to projects](./)
+Lorem Ipsum
+
+## Documentation
+
+[Back to projects](projects.md)
