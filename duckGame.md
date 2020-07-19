@@ -1,4 +1,13 @@
-Welcome! This is the page where I will write about the development process of the projects I can talk about. 
+# Duck Game
 
-- FPS
-- Bingo Generator
+[DuckGameBanner](_images/duckGame.png)
+
+## Concept
+
+## Art 
+
+## Current Status
+
+## Documentation
+
+[Back to projects](./)
