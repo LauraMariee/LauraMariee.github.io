@@ -1,6 +1,6 @@
 # Duck Game
 
-[DuckGameBanner](_images/duckGame.png)
+![DuckGameBanner](_images/duckGame.png)
 
 ## Concept
 

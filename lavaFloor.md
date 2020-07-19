@@ -1,6 +1,6 @@
 # The Floor is Lava! 
 
-[FloorIsLavaBanner](_images/lavaFloor.png)
+![FloorIsLavaBanner](_images/lavaFloor.png)
 
 ## Concept
 

@@ -10,4 +10,4 @@
 
 
 
-![Run Sebbi, Run!](sebbiRun.png)
+![Run Sebbi, Run!](sebbiRun)
