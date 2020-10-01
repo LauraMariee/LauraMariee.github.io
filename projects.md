@@ -7,7 +7,7 @@
 
 
 ## The Floor is Lava
-![The Floor is Lava](lavaFloor.png)
+![The Floor is Lava](lavaFloor.PNG)
 [The Floor is Lava!](lavaFloor.md)
 
 
