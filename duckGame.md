@@ -18,10 +18,6 @@ Lorem Ipsum
 
 Lorem Ipsum
 
-## Documentation
-
-Lorem Ipsum
-
 
 
 [Back to projects](projects.md)
