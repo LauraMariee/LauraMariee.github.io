@@ -1,4 +1,21 @@
-Welcome! This is the page where I will write about the development process of the projects I can talk about. 
+# Spell Shooter
 
-- FPS
-- Bingo Generator
+## Concept
+
+Lorem Ipsum
+
+## Art 
+
+Lorem Ipsum
+
+## Current Status
+
+Lorem Ipsum
+
+## Documentation
+
+Lorem Ipsum
+
+
+
+[Back to projects](projects.md)
