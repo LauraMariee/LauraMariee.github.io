@@ -1,6 +1,12 @@
 # Projects
 
 
+## AberCompSoc Game Jam
+# 2020 Simulator
+![CompSocGameJam](sim2020Image.png)
+[2020 Simulator](sim2020.md)
+
+
 ## Duck Game
 ![DuckGameBanner](duckGame.png)
 [Duck Game](duckGame.md)
