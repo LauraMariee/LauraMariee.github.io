@@ -15,6 +15,6 @@ Completed
 ## Documentation:
 Mechanics: Space Bar to jump. 
 
-
+![FloorIsLavaBanner](gameplayFIL.PNG)
 
 [Back to projects](projects.md)
