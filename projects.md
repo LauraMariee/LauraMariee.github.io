@@ -2,7 +2,7 @@
 
 
 ## AberCompSoc Game Jam - 2020 Simulator
-![CompSocGameJam](sim2020Image.png)
+![CompSocGameJam](sim2020Image.PNG)
 [2020 Simulator](sim2020.md)
 
 
