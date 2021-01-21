@@ -6,7 +6,7 @@
 [2020 Simulator](sim2020.md)
 
 ## Lundum Dare 47 - While(Sushi)
-![LundumDare47](whilesushiGameplay.PNG)
+![LundumDare47](whileSushiGameplay.PNG)
 [While(Sushi)](whileSushi.md)
 
 
