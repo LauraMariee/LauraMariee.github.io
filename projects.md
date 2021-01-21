@@ -5,7 +5,7 @@
 ![CompSocGameJam](sim2020Image.PNG)
 [2020 Simulator](sim2020.md)
 
-## Lundum Dare 47 - While(Sushi)
+## Ludum Dare 47 - While(Sushi)
 ![LundumDare47](whilesushigameplay2.PNG)
 [While(Sushi)](whileSushi.md)
 
