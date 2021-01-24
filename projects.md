@@ -11,7 +11,7 @@
 
 
 ## Duck Game
-![DuckGameBanner](duckGame.png)
+![DuckGameBanner](duckGame.PNG)
 [Duck Game](duckGame.md)
 
 
