@@ -8,7 +8,7 @@ Models:
 Got 2 models – male and female off the internet but it had the correct licensing. I put basic clothes on them and then made them into prefabs within Unity. The model prefabs have the appropriate components, so they spin on the spot. They are also rigged to make posing them easier. 
 
 
-## Week 2
+## Week 2:
 Environment:
 Started a few scripts to set up dynamic lever system. Still to be tested and only 
 works with values - not models. 
@@ -30,7 +30,7 @@ Decided on changing the traits:
 - Waist 
 - Hip
 
-## Week 3
+## Week 3:
 Environment:
 Created an upated lever podium with UI and working levers. Levers link with the model and should change the scale depending on the position.   
 
