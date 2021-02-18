@@ -30,4 +30,23 @@ Decided on changing the traits:
 - Waist 
 - Hip
 
+## Week 3
+Environment:
+Created an upated lever podium with UI and working levers. Levers link with the model and should change the scale depending on the position.   
+
+Models:
+Re-rigged the female model to support posing and bone transformations. It needs polishing with certain areas but a prototype has been shown.
+The male model needs to be rigged.  
+
+Research:
+Figured out appropriate scaling on the 3D model and examined measurement tables. 
+
+Bugs:
+Generated steam VR input, fixed usability issues and detected scaling issues.
+
+Usability issues include:
+- Teleporting
+- Extra momentum on handles
+- Scene scaling
+
 [back to home](./index)
