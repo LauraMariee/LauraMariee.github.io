@@ -49,4 +49,31 @@ Usability issues include:
 - Extra momentum on handles
 - Scene scaling
 
+## Week 4:
+Enviroment:
+Changed the table model, added UI for the levers. The levers are now polished - and all transformations are possible.  
+Removed the buttons to change model as the design changed - added in Week 5. 
+
+Models:
+Re-rigged the female model in the bone transformations. 
+
+Bugs:
+Usability issues include:
+- Fixed an issue in which the hand skeleton was reversed when moving the levers
+- investigated and altered the offset of the model during rotation
+- Scaled down the table and model
+
+## Week 5:
+Enviroment:
+Data from the ASOS Api has been pulled into JSON files that are processed and assignable by clothing items. They are blocked out. 
+
+Models:
+Re-rigged male model to support bone transformations. 
+
+Research:
+
+Bugs:
+Usability issues include:
+- Singular Teleport point added in front of the levers
+
 [back to home](./index)
