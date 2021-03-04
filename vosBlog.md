@@ -71,6 +71,7 @@ Models:
 Re-rigged male model to support bone transformations. 
 
 Research:
+Picked out 5 items from each category to model.
 
 Bugs:
 Usability issues include:
