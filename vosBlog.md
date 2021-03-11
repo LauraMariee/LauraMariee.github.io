@@ -77,4 +77,16 @@ Bugs:
 Usability issues include:
 - Singular Teleport point added in front of the levers
 
+## Week 6:
+Enviroment:
+Made some design changes with the code and environment to be more efficient - fixed performance issues. 
+
+Models:
+Created clothing object with phyisic but still buggy. 
+
+Bugs:
+Usability issues include:
+- Automatically detects bones of male and female bones in the model.
+
+
 [back to home](./index)
