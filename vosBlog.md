@@ -79,10 +79,11 @@ Usability issues include:
 
 ## Week 6:
 Enviroment:
-Made some design changes with the code and environment to be more efficient - fixed performance issues. 
+Made some design changes with the code and environment to be more efficient - fixed performance issues.
+Separated into new classes (Male and Female). 
 
 Models:
-Created clothing object with phyisic but still buggy. 
+Created clothing object with physics but manually entered. 
 
 Bugs:
 Usability issues include:
