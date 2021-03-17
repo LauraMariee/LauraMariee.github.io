@@ -1,5 +1,7 @@
 # Blog
 
+[Development Outtakes](./outtakes)
+
 ## Week 1:
 Environment:
 A basic environment for VR was created along with teleportation, lighting, and Steam VR. There is also UI which changes the model from male to female. 
