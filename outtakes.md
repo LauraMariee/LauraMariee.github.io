@@ -17,6 +17,9 @@ Something isn't right here...
 Monsters exist out of bounds.
 
 
+![Pink](brokenMesh.PNG)
+On Wednesdays, we wear pink. 
+
 
 
 [back to home](./index)

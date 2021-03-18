@@ -91,5 +91,22 @@ Bugs:
 Usability issues include:
 - Automatically detects bones of male and female bones in the model.
 
+## Week 7:
+Enviroment:
+Made code more efficient and fixed some performance issues when in VR.
+Button and script created to switch model and return to original position. 
+Re added spin feature to updated models. 
+Added initial spawn points for clothing on the two different kinds of model. 
+
+
+Models:
+Edited clothing object with physics and better scale but manually entered into the environment.
+Fixed model scale to work within Unity. 
+
+Bugs:
+Usability issues include:
+- Stopped inital crash when opening application in VR.
+- Cleaned up unused assets.
+
 
 [back to home](./index)
