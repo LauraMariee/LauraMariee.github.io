@@ -21,6 +21,13 @@ Monsters exist out of bounds.
 On Wednesdays, we wear pink. 
 
 
+![baby hands](helpme.PNG)
+Keep an eye on child objects... 
+
+![handsup](handsup.PNG)
+"I put my hands up in the air sometimes" - difference between 
+local and global position
+
 
 [back to home](./index)
 
