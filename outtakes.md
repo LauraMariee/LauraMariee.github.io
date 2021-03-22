@@ -29,6 +29,12 @@ Keep an eye on child objects...
 local and global position
 
 
+
+![doctor octopus](spider.PNG)
+Using the power of elastic! 
+
+
+
 [back to home](./index)
 
 [back to Virtual Online Shopping](./vosBlog)
