@@ -1,5 +1,7 @@
 # Blog
 
+![cover](cover.jpg)
+
 [Development Outtakes](./outtakes)
 
 ## Week 1:
