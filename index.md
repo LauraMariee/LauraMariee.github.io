@@ -8,6 +8,7 @@ layout: default
 
 [To see previous projects and experience, click here!](projects.md)
 
+![Virtual Online Shopping](cover.PNG)
 [Major Project Blog - Virtual Online Shopping](vosBlog.md)
 
 
