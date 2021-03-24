@@ -29,10 +29,11 @@ Keep an eye on child objects...
 local and global position
 
 
-
 ![doctor octopus](spider.PNG)
 Using the power of elastic! 
 
+![bendy body](ballet.PNG)
+Practicing her cloth impression.
 
 
 [back to home](./index)
