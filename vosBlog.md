@@ -111,4 +111,17 @@ Usability issues include:
 - Cleaned up unused assets.
 
 
+## Week 8:
+Enviroment:
+Finalised general scene design and imported a new package to handle cloth physics.
+New cloth physics package is based on bones which in turn help with dyamnic scaling. 
+
+Models:
+Refined tshirt clothing model and scaling.
+Fixed mesh models for both models and clothes.
+
+Bugs:
+Usability issues include:
+- Internalised the catagory JSON files and python script. 
+- Fixed load in clothes error - new prefab created.
 [back to home](./index)
