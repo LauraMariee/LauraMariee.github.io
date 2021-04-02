@@ -124,4 +124,18 @@ Bugs:
 Usability issues include:
 - Internalised the catagory JSON files and python script. 
 - Fixed load in clothes error - new prefab created.
+
+## Week 9:
+Enviroment:
+Created new environment with fixed lighting, clothes holder and 
+filer system.  
+Blocked out basic filter system.  
+
+Models:
+Created a clothes holder. 
+
+Bugs:
+Usability issues include:
+- Only active model can be edited with levers.
+- Abstract class created to refine model. 
 [back to home](./index)
