@@ -138,4 +138,29 @@ Bugs:
 Usability issues include:
 - Only active model can be edited with levers.
 - Abstract class created to refine model. 
+
+## Week 10:
+Enviroment:
+Designed the filter UI and implemented almost all relevant buttons.
+Created new environment with fixed lighting.
+
+Bugs:
+Usability issues include:
+- Stopped duplicate items being filtered. 
+- Only active model can be edited with levers.
+- Abstract class created to refine model. 
+
+## Week 11:
+Enviroment:
+Finished linking clothing type to the ClothesDetail.
+Buttons open sub-menus.
+Create and design buttons for clothes spawn machine.
+Linked filter clothes to machine - models spawn inside. 
+Designed and created UI to show all user preferences. 
+
+Models:
+Model, rigged and textured a pair of jeans.
+  
+
+
 [back to home](./index)
