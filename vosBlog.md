@@ -142,7 +142,6 @@ Usability issues include:
 ## Week 10:
 Enviroment:
 Designed the filter UI and implemented almost all relevant buttons.
-Created new environment with fixed lighting.
 
 Bugs:
 Usability issues include:
