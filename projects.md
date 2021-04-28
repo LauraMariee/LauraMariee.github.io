@@ -1,5 +1,9 @@
 # Projects
 
+## Virtual Online Shopping
+![Virtual Online Shopping](vosBanner.PNG)
+[Virtual Online Shopping](VOS.md)
+
 ## Ludum Dare 48 - Penguin Paradise
 ![Ludum Dare 48](penguinBanner.png)
 [Ludum Dare 48!](penguinParadise.md)
