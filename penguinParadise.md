@@ -1,6 +1,6 @@
 # Ludum Dare 48 - Penguin Paradise
 
-![PenguinParadiseBanner](penguinBannner.PNG)
+![PenguinParadiseBanner](penguinBannner.png)
 
 ## Link to play!
 [Play here](https://green-game-17.gitlab.io/penguin-paradise-ld48-freeze)
@@ -24,6 +24,6 @@ Completed
 @MomoHunter - Programming
 @LauraMariee - Art
 
-![WhileSushiGameplay](penguinBanner.PNG)
+![WhileSushiGameplay](penguinBanner2.png)
 
 [Back to projects](projects.md)
