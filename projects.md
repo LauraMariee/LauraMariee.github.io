@@ -22,11 +22,6 @@
 [Duck Game](duckGame.md)
 
 
-## Spell Shooter
-![Spell Shooter](fps.png)
-[Spell Shooter](spellShooter.md)
-
-
 ## The Floor is Lava
 ![The Floor is Lava](lavaFloor.PNG)
 [The Floor is Lava!](lavaFloor.md)
