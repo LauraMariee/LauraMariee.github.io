@@ -1,4 +1,4 @@
-# The Floor is Lava! 
+# Ludum Dare 47 - While(Sushi) 
 
 ![WhileSushiBanner](whilesushiMenu.PNG)
 
@@ -20,6 +20,11 @@ Completed
 ## Documentation:
 Mechanics: Arrow keys to move, Space key to interact.
 
+## Team
+@LucaVazz - Programming
+@toxs1ck - Audio/Art
+@MomoHunter - Programming
+@LauraMariee - Art
 
 ![WhileSushiGameplay](whileSushiGameplay.PNG)
 

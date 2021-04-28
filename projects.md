@@ -1,5 +1,8 @@
 # Projects
 
+## Ludum Dare 48 - Penguin Paradise
+![Ludum Dare 48](penguinBanner.PNG)
+[Ludum Dare 48!](penguinParadise.md)
 
 ## AberCompSoc Game Jam - 2020 Simulator
 ![CompSocGameJam](sim2020Image.PNG)
