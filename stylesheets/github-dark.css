@@ -134,5 +134,10 @@
 .pl-corl /* constant.other.reference.link, string.other.link */ {
   text-decoration: underline;
   color: #3c66e2;
+
+.topnav a:hover {
+  background-color: #000000;
+  color: black;
+}
 }
 
