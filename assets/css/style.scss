@@ -6,7 +6,7 @@
 .topnav {
   display: flex;
   flex-direction: row;
-  align-content: center;
+  justify-content: center;
 
 a {
   float: left;
@@ -17,8 +17,7 @@ a {
   font-size: 17px;
 
 &:hover {
-  background-color: #000000;
-  color: black;
+  color: #ffcc00;
 }
 
 }
