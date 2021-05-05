@@ -2,9 +2,7 @@
 
 ## Virtual Online Shopping
 ![Virtual Online Shopping](vosBanner.PNG)
-<button onclick="window.location.href='/vosBlog.html'">More Details</button>
-
-[Virtual Online Shopping](VOS.md)
+<button onclick="window.location.href='/VOS.html'">More Details</button>
 
 ## Ludum Dare 48 - Penguin Paradise
 ![Ludum Dare 48](penguinBanner.png)
