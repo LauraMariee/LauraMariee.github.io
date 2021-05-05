@@ -4,6 +4,17 @@
 ![Virtual Online Shopping](vosBanner.PNG)
 <button onclick="window.location.href='/VOS.html'">More Details</button>
 
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 ## Ludum Dare 48 - Penguin Paradise
 ![Ludum Dare 48](penguinBanner.png)
 [Ludum Dare 48!](penguinParadise.md)
