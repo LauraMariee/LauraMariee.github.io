@@ -2,6 +2,7 @@
 
 ## Virtual Online Shopping
 ![Virtual Online Shopping](vosBanner.PNG)
+<a href="/VOS.html">More Details</a>
 [Virtual Online Shopping](VOS.md)
 
 ## Ludum Dare 48 - Penguin Paradise
@@ -29,5 +30,3 @@
 ![The Floor is Lava](lavaFloor.PNG)
 [The Floor is Lava!](lavaFloor.md)
 
-
-[back to home](./index)
