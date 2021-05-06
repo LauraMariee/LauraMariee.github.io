@@ -3,7 +3,7 @@
 ![TimelessForestBanner](Timeless_Forest_Menu.PNG)
 
 ## Link to play!
-
+[Download Link](..\timeless_forest_data\timeless_forest.exe)
 
 ## Engine:
 Unity - version 2019.4.13
