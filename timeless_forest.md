@@ -6,12 +6,13 @@
 
 
 ## Engine:
-Unity
+Unity - version 2019.4.13
 
 ## Concept:
-2D platforming game
+This is a 2D platforming game. You have to run and climb to get through the level, avoiding the spikes and falling rocks! 
+But don't worry if you make a mistake - you can travel back in time! 
 
-## Art: 
+## Art Style: 
 Pixel - Not mine
 
 ## Current Status:
