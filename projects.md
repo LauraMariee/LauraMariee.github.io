@@ -15,7 +15,9 @@
 
 ## Timeless Forest
 ![Timeless Forest](Timeless_Forest.PNG)
-[Timeless Forest](timeless_forest.md)
+This is a 2D platforming game. You have to run and climb to get through the level, avoiding the spikes and falling rocks! 
+But don't worry if you make a mistake - you can travel back in time! 
+[More Details](timeless_forest.md)
 
 
 ## Ludum Dare 47 - While(Sushi)
