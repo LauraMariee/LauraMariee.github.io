@@ -3,7 +3,11 @@
 ![TimelessForestBanner](Timeless_Forest_Menu.PNG)
 
 ## Link to play!
+The download link is below:
 [Download Link](..\timeless_forest_data\timeless_forest.exe)
+
+## Properties
+Size: 54mb
 
 ## Engine:
 Unity - version 2019.4.13
