@@ -2,7 +2,10 @@
 
 ## Virtual Online Shopping
 ![Virtual Online Shopping](vosBanner.PNG)
-<button onclick="window.location.href='/VOS.html'">More Details</button>
+[Virtual Online Shopping](VOS.md)
+This is a VR application which simulates clothes and how they fit 
+on a customised model. 
+[More Details](VOS.md)
 
 
 ## Ludum Dare 48 - Penguin Paradise
@@ -15,6 +18,7 @@
 
 ## Timeless Forest
 ![Timeless Forest](Timeless_Forest.PNG)
+[Timeless Forest](timeless_forest.md)
 This is a 2D platforming game. You have to run and climb to get through the level, avoiding the spikes and falling rocks! 
 But don't worry if you make a mistake - you can travel back in time! 
 [More Details](timeless_forest.md)
@@ -22,7 +26,8 @@ But don't worry if you make a mistake - you can travel back in time!
 
 ## Ludum Dare 47 - While(Sushi)
 ![LundumDare47](whilesushigameplay2.PNG)
-[While(Sushi)](whileSushi.md)
+This is a game jam entry in which you are a chef who serves sushi to cats!
+[More Details](whileSushi.md)
 
 ## Duck Game
 ![DuckGameBanner](duckGame.PNG)
@@ -30,5 +35,7 @@ But don't worry if you make a mistake - you can travel back in time!
 
 ## The Floor is Lava
 ![The Floor is Lava](lavaFloor.PNG)
+[The Floor is Lava](lavaFloor.md)
+This is a platforming game where you have to avoid the floor! 
 [The Floor is Lava!](lavaFloor.md)
 

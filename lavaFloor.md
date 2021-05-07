@@ -2,9 +2,19 @@
 
 ![FloorIsLavaBanner](lavaFloor.PNG)
 
+## Link to play!
+[Download Link](https://github.com/LauraMariee/GameProject-Floor-is-Lava/releases/latest)
 
-## Concept:
-2D Sidescroller 
+## Properties
+Size: 5.38mb<br>
+Platform: Windows x86
+
+## Engine 
+Gamemaker Studio
+
+## Concept
+This is a 2D sidescrolling game. Avoid the floor by jumping on platforms and progress
+to all sorts of rooms in the house.   
 
 ## Art: 
 Pixel Art
