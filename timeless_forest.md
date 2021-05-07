@@ -3,7 +3,7 @@
 ![TimelessForestBanner](Timeless_Forest_Menu.PNG)
 
 ## Link to play!
-[Download Link - exe](..\timeless_forest_data\timeless_forest.exe)
+[Download Link - exe](..\timeless_forest.zip)
 
 ## Properties
 Size: 54mb<br><\br>
