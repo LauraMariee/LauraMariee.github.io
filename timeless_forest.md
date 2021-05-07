@@ -3,7 +3,7 @@
 ![TimelessForestBanner](Timeless_Forest_Menu.PNG)
 
 ## Link to play!
-[Download Link - exe](..\timeless_forest.zip)
+[Download Link](https://github.com/LauraMariee/Timeless-Forest/releases/latest)
 
 ## Properties
 Size: 54mb<br><\br>
