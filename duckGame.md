@@ -15,7 +15,7 @@ Unity - version 2019.4.13
 This is a VR game where you have to destroy as much as possible using rubber ducks! 
 
 ## Art Style
-3D 
+Minimalistic 3D Models and textures.
 
 ## Current Status
 In Progress
