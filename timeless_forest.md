@@ -1,5 +1,4 @@
 # Timeless Forest
-
 ![TimelessForestBanner](Timeless_Forest_Menu.PNG)
 
 ## Link to play!
@@ -16,7 +15,7 @@ Unity - version 2019.4.13
 This is a 2D platforming game. You have to run and climb to get through the level, avoiding the spikes and falling rocks! 
 But don't worry if you make a mistake - you can travel back in time! 
 
-## Art Style: 
+## Art Style
 Pixel - Not mine
 
 ## Current Status:

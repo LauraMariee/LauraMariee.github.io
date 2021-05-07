@@ -5,12 +5,10 @@
 Lorem Ipsum
 
 ## Art 
-
-Lorem Ipsum
+3D Blender
 
 ## Current Status
-
-Lorem Ipsum
+In Progress
 
 ## Documentation
 
