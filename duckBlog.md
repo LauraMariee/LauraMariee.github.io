@@ -1,6 +1,6 @@
 # Blog
 
-![cover](duckBanner.PNG)
+![duck cover](duck_Banner.PNG)
 
 ## Post 1:
 
