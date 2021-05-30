@@ -28,11 +28,6 @@ But don't worry if you make a mistake - you can travel back in time!
 This is a game jam entry in which you are a chef who serves sushi to cats!
 [More Details](whileSushi.md)
 
-## Duck Game
-![DuckGameBanner](duckGame.PNG)
-This is a game where you have to destroy as much as possible using rubber ducks! 
-[More Details](duckGame.md)
-
 ## The Floor is Lava
 ![The Floor is Lava](lavaFloor.PNG)
 This is a platforming game where you have to avoid the floor! 
