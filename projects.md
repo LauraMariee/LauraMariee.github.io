@@ -7,7 +7,7 @@ on a customised model.
 [More Details](VOS.md)
 
 ## Ludum Dare 48 - Penguin Paradise
-![Ludum Dare 48](penguinBanner.png)
+![Ludum Dare 48](penguin_screenshot.PNG)
 This is a strategy, resource management game. You have to guide the penguins in order to build the grand monument. 
 [More Details](penguinParadise.md)
 
