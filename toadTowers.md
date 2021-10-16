@@ -1,6 +1,6 @@
 # Ludum Dare 48 - Penguin Paradise
 
-![ToadTowersBanner](ToadBanner.png)
+![ToadTowersBanner](ToadBanner.PNG)
 
 ## Link to play!
 [Play here](https://green-game-17.gitlab.io/toad-towers-ld49-freeze)
@@ -24,6 +24,6 @@ Completed
 @MomoHunter - Programming
 @LauraMariee - Art
 
-![ToadTowersBanner](toadTowersBanner2.png)
+![ToadTowersBanner](toadTowersBanner2.PNG)
 
 [Back to projects](projects.md)
