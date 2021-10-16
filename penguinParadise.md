@@ -20,10 +20,11 @@ Completed
 
 ## Team
 @LucaVazz - Programming
-@toxs1ck - Art/Audio
+@toxs1ck - Art
 @MomoHunter - Programming
 @LauraMariee - Art
+[Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
 
-![WhileSushiGameplay](penguinBanner2.png)
+![PenguinParidise](penguinBanner2.png)
 
 [Back to projects](projects.md)
