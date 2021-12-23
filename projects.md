@@ -2,7 +2,7 @@
 
 ## AberCompSoc Game Jam 2021- Bearly a Heist
 ![CompSocGameJam21](cover.png)
-This is a tower building game where you have to keep the frog clients happy and battle the elements.  
+Text adventure following a bear who attempts to steal back the claw.
 [More Details](bearlyAHeist.md)
 
 ## Ludum Dare 49 - Toad Towers
