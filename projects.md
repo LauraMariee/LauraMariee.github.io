@@ -1,5 +1,10 @@
 # Projects
 
+## AberCompSoc Game Jam 2021- Bearly a Heist
+![CompSocGameJam21](cover.PNG)
+This is a tower building game where you have to keep the frog clients happy and battle the elements.  
+[More Details](bearlyAHeist.md)
+
 ## Ludum Dare 49 - Toad Towers
 ![Ludum Dare 49](toadTowersBanner2.PNG)
 This is a tower building game where you have to keep the frog clients happy and battle the elements.  
@@ -16,7 +21,7 @@ on a customised model.
 This is a strategy, resource management game. You have to guide the penguins in order to build the grand monument. 
 [More Details](penguinParadise.md)
 
-## AberCompSoc Game Jam - 2020 Simulator
+## AberCompSoc Game Jam 2020 - 2020 Simulator
 ![CompSocGameJam](sim2020Image.PNG)
 This is a idle clicker game which was made for a game jam. You have to click the different objects to keep everything
 balanced and beat the timer! 
