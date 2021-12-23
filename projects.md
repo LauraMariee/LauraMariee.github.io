@@ -1,7 +1,7 @@
 # Projects
 
 ## AberCompSoc Game Jam 2021- Bearly a Heist
-![CompSocGameJam21](cover.PNG)
+![CompSocGameJam21](cover.png)
 This is a tower building game where you have to keep the frog clients happy and battle the elements.  
 [More Details](bearlyAHeist.md)
 
