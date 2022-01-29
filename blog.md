@@ -1,5 +1,9 @@
 # Development Blogs
 
+## Bearly a Heist
+![Bearly A Heist](vosBanner.PNG)
+[Bearly A Heist Blog](basBlog.md)
+
 ## Virtual Online Shopping
 ![Virtual Online Shopping](vosBanner.PNG)
 [Virtual Online Shopping Development Blog!](vosBlog.md)
