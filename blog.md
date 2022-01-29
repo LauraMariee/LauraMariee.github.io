@@ -1,7 +1,7 @@
 # Development Blogs
 
 ## Bearly a Heist
-![Bearly A Heist](vosBanner.PNG)
+![Bearly A Heist](intro2.png)
 [Bearly A Heist Blog](basBlog.md)
 
 ## Virtual Online Shopping
