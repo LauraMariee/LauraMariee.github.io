@@ -41,6 +41,18 @@
     <img src="/lasers_draft.png">
     <p>Lazer sneaking. </p>
   </div>
+  <div>
+    <img src="/reality_claw_plan.png">
+    <p>The sacred plans. </p>
+  </div>
+  <div>
+    <img src="/romance_penguin.png">
+    <p>A veryy appreciative penguin. </p>
+  </div>
+  <div>
+    <img src="/support_penguin_draft.png">
+    <p>Initial support character that didn't make it past the design stage. </p>
+  </div>
 </div>
 
 [back to home](./index)
