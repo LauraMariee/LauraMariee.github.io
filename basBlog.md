@@ -2,14 +2,23 @@
 
 ![cover](penguinBanner.png)
 
-![Reality claw blueprint](reality_claw_plan.png)
-
-Early blueprint for the reality claw. 
-
-
-![Chef Draft](chef_draft.png)
-
-Chef draft 
-
+<div class="gallery">
+  <div>
+    <img src="https://images.unsplash.com/photo-1635776063043-ab23b4c226f6?w=300">
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
+  <div>
+    <img src="https://images.unsplash.com/photo-1614851099511-773084f6911d?w=300">
+    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+  <div>
+    <img src="https://images.unsplash.com/photo-1604339452944-c60d8af384cb?w=300">
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. </p>
+  </div>
+  <div>
+    <img src="https://images.unsplash.com/photo-1614853316862-18864a7cb288?w=300">
+    <p>Duis aute irure dolor in reprehenderit.</p>
+  </div>
+</div>
 
 [back to home](./index)

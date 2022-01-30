@@ -34,3 +34,26 @@ a {
   display: inline-block;
   font-size: 16px;
 }
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: center;
+  
+  --img-width: 300px;
+}
+
+.gallery div {
+  flex: 0 0 var(--img-width);
+  margin: 10px;
+  
+  display: flex;
+  flex-direction: column;
+}
+.gallery div img {
+  width: var(--img-width);
+  height: auto;
+  margin: auto 0;
+}
