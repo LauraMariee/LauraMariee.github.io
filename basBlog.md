@@ -6,7 +6,7 @@
     <p>Lorem ipsum dolor sit amet.</p>
   </div>
   <div>
-    <img src="https://images.unsplash.com/photo-1614851099511-773084f6911d?w=300">
+    <img src="/penguinBanner.png">
     <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   </div>
   <div>
