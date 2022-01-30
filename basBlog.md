@@ -1,10 +1,8 @@
 # Blog
 
-![cover](penguinBanner.png)
-
 <div class="gallery">
   <div>
-    <img src="https://images.unsplash.com/photo-1635776063043-ab23b4c226f6?w=300">
+	![cover](penguinBanner.png)
     <p>Lorem ipsum dolor sit amet.</p>
   </div>
   <div>
