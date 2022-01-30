@@ -2,20 +2,24 @@
 
 <div class="gallery">
   <div>
-	![cover](penguinBanner.png)
-    <p>Lorem ipsum dolor sit amet.</p>
+    <img src="/basement_draft.png">
+    <p>Basement draft. </p>
   </div>
   <div>
-    <img src="/penguinBanner.png">
-    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <img src="/chef_draft.png">
+    <p>Chef in the kitchen concept art. </p>
   </div>
   <div>
-    <img src="https://images.unsplash.com/photo-1604339452944-c60d8af384cb?w=300">
-    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. </p>
+    <img src="/chef_penguin_draft.png">
+    <p>Inital character mood of the penguin chef. </p>
   </div>
   <div>
-    <img src="https://images.unsplash.com/photo-1614853316862-18864a7cb288?w=300">
-    <p>Duis aute irure dolor in reprehenderit.</p>
+    <img src="/courtyard_draft.png">
+    <p>Inital view of the courtyard image. </p>
+  </div>
+  <div>
+    <img src="/hallway_draft.png">
+    <p>Inside of the totally not creepy hallway. </p>
   </div>
 </div>
 
