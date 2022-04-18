@@ -5,6 +5,7 @@
 ## Introduction
 Controlling the mythical maze, you need to delay the hordes of adventurers from reaching the end of the maze and unleashing the dark, secret [REDACTED] monster kept within.
 Use traps and monsters to fend of adventurers and harvest their souls to banish the [REDACTED] monster.
+
 But watch out, the adventurers are smarter then they appear at first, they might even group up to take out your defenses.
 
 

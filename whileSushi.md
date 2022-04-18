@@ -2,6 +2,12 @@
 
 ![WhileSushiBanner](whilesushiMenu.PNG)
 
+## Introduction
+“Bröther, I require the sushi!” 🍣
+
+In an epic battle against bankruptcy, you must feed the guest room filled with hungry kittens to make them happy and earn as much money as possible;
+while being stuck looping around your kitchen.
+
 ## Link to play!
 [Play here](https://green-game-17.gitlab.io/while-sushi-ld47-freeze/)
 

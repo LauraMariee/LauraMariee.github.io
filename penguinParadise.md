@@ -2,6 +2,14 @@
 
 ![PenguinParadiseBanner](penguinBanner.png)
 
+## Introduction
+“Well Well Well, if it isn’t the consequences of trying to go deeper and deeper into reality….”
+
+Stranded after an experiment, you and your penguin friends need to gather resources to recover.
+
+First on the surface of the planet, but sooner or later digging into the well seems very tempting.
+
+
 ## Link to play!
 [Play here](https://green-game-17.gitlab.io/penguin-paradise-ld48-freeze)
 
