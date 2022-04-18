@@ -22,5 +22,7 @@ Voxel
 Complete
 
 
+![banner](gameplay.jpg)
+
 
 [Back to projects](projects.md)
