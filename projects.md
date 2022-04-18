@@ -1,6 +1,7 @@
 # Projects
 
 ## Ludum Dare 50 - The Maze of Swineton
+![MazeOfSwineton](main_menu.jpg)
 This is a tower defence game where you have trap the pigs, so they don't free the monster!   
 [More Details](swine.md)
 
