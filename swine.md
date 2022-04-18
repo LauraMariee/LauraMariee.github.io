@@ -1,6 +1,6 @@
 # The Maze of Swineton
 
-![bearBanner](intro2.png)
+![banner](main_menu.jpg)
 
 ## Link to play!
 [Download Link](https://green-game-17.gitlab.io/the-maze-of-swineston)
