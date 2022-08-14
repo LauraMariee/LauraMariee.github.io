@@ -32,4 +32,17 @@
     <img src="/tractor.jpg">
     <p> Winter Farming</p>
   </div>
+  <div>
+    <img src="/cover.jpg">
+    <p>Virtual Online Shopping Concept </p>
+  </div>
+  <div>
+    <img src="/CrotiaRoadtrip22.jpg">
+    <p>Croatia Roadtrip 22 </p>
+  </div>
+  <div>
+    <img src="/tenerife22.jpg">
+    <p>Tenerife waves </p>
+  </div>
+
 
