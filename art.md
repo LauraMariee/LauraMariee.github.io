@@ -5,6 +5,10 @@
     <p>Weihnachtsmarkt 21</p>
   </div>
   <div>
+    <img src="/pool.jpg">
+    <p>Pool Vibes</p>
+  </div>
+  <div>
     <img src="/heathers.jpg">
     <p>Heathers in a field</p>
   </div>
