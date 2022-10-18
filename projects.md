@@ -1,7 +1,12 @@
 # Projects
 
-## Ludum Dare 50 - The Maze of Swineton
-![MazeOfSwineton](main_menu.jpg)
+## Ludum Dare 51 - On track to party
+![on_track_to_party](title.png)
+Manage your resources and passengers whilst going from station to station in 10 seconds! 
+[More Details](track_to_party.md)
+
+## Ludum Dare 50 - The Maze of Swineston
+![MazeOfSwineston](main_menu.jpg)
 This is a tower defence game where you have trap the pigs, so they don't free the monster!   
 [More Details](swine.md)
 
