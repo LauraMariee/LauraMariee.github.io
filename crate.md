@@ -1,4 +1,4 @@
-# You're doing crate! 
+# You're doing crate
 
 ![banner](crate_title.png)
 
