@@ -15,7 +15,3 @@
 ## Duck_Game
 ![Duck Game](duck_banner.PNG)
 [Duck Game Development Blog!](duckBlog.md)
-
-## Project Christmas
-![projectChristmas](projectChristmas.PNG)
-[projectChristmas Development Blog!](projectChristmas.md)
