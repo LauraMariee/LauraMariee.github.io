@@ -1,7 +1,7 @@
 # Development Blogs
 
 ## Detective Shroom
-![mushroomBlog](intro2.png)
+![mushroomBlog](shroom_homescreen.gif)
 [mushroomBlog Blog](mushroomBlog.md)
 
 ## Bearly a Heist
