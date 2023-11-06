@@ -1,8 +1,8 @@
 # Development Blogs
 
-## Detective Shroom
-![mushroomBlog](shroom_homescreen.gif)
-[mushroomBlog Blog](mushroomBlog.md)
+## Toad Towers
+![Toad Towers](intro2.png)
+[Toad Towers Blog](ttBlog.md)
 
 ## Bearly a Heist
 ![Bearly A Heist](intro2.png)

@@ -30,11 +30,11 @@ Voxel
 Complete
 
 ## Team
-@LucaVazz - Programming
-@sknana0000 - Art
-@MomoHunter - Programming
-@LauraMariee - UX/Art
-[Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music 
+- @LucaVazz - Programming
+- @sknana0000 - Art
+- @MomoHunter - Programming
+- @LauraMariee - UX/Art
+- [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music 
 
 
 ![banner](gameplay.png)
