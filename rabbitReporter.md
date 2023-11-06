@@ -1,6 +1,6 @@
 # You're doing crate!
 
-![banner](crate_title.png)
+![banner](newspaper.png)
 
 ## Introduction
 They said it could not be done! A Visual Novel game with branching dialogue timelines and hand painted assets, all in one jam game?
