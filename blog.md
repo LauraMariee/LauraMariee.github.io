@@ -12,3 +12,7 @@
 ![Virtual Online Shopping](vosBanner.PNG)
 [Virtual Online Shopping Development Blog!](vosBlog.md)
 
+## Penguin Paradise
+![Penguin Paradise](penguinBanner.png)
+[Penguin Paradise](ppBlog.md)
+
