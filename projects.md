@@ -1,7 +1,6 @@
 # Projects
 
-
-## Ludum Dare 53 - Rabbit Reporter!
+## Ludum Dare 54 - Rabbit Reporter!
 ![rabbit_reporter](rabbit_screen.png)
 Follow Ricky Reporter Rabbit on his journalistic adventures to find out the local scoop!
 [More Details](rabbitReporter.md)
