@@ -1,4 +1,4 @@
-# You're doing crate!
+# Rabbit Reporter!
 
 ![banner](newspaper.png)
 
@@ -9,8 +9,8 @@ Follow Ricky Reporter Rabbit on his journalistic adventures to find out the loca
 Although the in-game hint tells you otherwise, unfortunately we ran out of time to add more stories, so every rabbit only has one story to tell in the jam version. Because of this, there also is no win or lose state in the jam version.
 
 ## Link to play!
-[Download Link](https://lucavazz.itch.io/rabbit-reporter)
-[Repo Link](https://gitlab.com/greenopal-studio/rabbit-reporter-ld54-freeze)
+- [Download Link](https://lucavazz.itch.io/rabbit-reporter)
+- [Repo Link](https://gitlab.com/greenopal-studio/rabbit-reporter-ld54-freeze)
 
 ## Properties
 Size: <br>

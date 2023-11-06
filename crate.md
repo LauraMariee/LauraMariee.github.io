@@ -24,17 +24,16 @@ Godot
 Pack crates and boxes to fulfill all your orders - as a seagull! 
 
 ## Art Style
-Voxel
+Voxel/Low Poly 3D
 
 ## Current Status
 Complete
 
 ## Team
-@LucaVazz - Programming
-@MomoHunter - Programming
-@LauraMariee - UX/Art
-@toxs1ck - Art
-[Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music 
+- @LucaVazz - Programming
+- @MomoHunter - Programming
+- @LauraMariee - UX/Art
+- @toxs1ck - Art
 
 
 
