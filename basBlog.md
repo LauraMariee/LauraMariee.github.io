@@ -1,5 +1,23 @@
 # Blog
 
+Game Design: 
+<b>SPOILER WARNING</b>
+<div class="gallery">
+  <div>
+    <img src="/basement.png">
+    <p>Basement draft. </p>
+  </div>
+  <div>
+    <img src="/floor1Escape.png">
+    <p>Basement draft. </p>
+  </div>
+</div>
+
+
+
+
+See the gallery below! 
+
 <div class="gallery">
   <div>
     <img src="/basement_draft.png">
