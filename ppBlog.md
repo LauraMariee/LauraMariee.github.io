@@ -2,11 +2,14 @@
 
 ![cover](penguin_screenshot.PNG)
 
-## Visual Style
-![ToadTowersBanner](penguinEras.png)
-![ToadTowersBanner](earlyUI.png)
+##Ideation
 ![ToadTowersBanner](DeeperIdeas.png)
+![ToadTowersBanner](penguinEras.png)
+
+## Visual Style
+![ToadTowersBanner](earlyUI.png)
 
 
-[Project Page](penguinParadise.md)
-[back to home](./index)
+
+- [Project Page](penguinParadise.md)
+- [back to home](./index)
