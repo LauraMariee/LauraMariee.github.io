@@ -2,11 +2,14 @@
 
 ![cover](penguin_screenshot.PNG)
 
-##Ideation
+## Ideation
+
 ![ToadTowersBanner](DeeperIdeas.png)
+
 ![ToadTowersBanner](penguinEras.png)
 
 ## Visual Style
+
 ![ToadTowersBanner](earlyUI.png)
 
 
