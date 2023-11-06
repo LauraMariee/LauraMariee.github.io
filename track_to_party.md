@@ -39,7 +39,6 @@ Complete
 
 
 ![banner](trainGif.gif)
-![banner](gameplay_ui.png)
 
 
 [Back to projects](projects.md)
