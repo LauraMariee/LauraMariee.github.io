@@ -30,11 +30,11 @@ Completed
 ## Documentation:
 
 ## Team
-@LucaVazz - Programming
-@toxs1ck - Art
-@MomoHunter - Programming
-@LauraMariee - Art
-[Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
+- @LucaVazz - Programming
+- @toxs1ck - Art
+- @MomoHunter - Programming
+- @LauraMariee - Art
+- [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
 
 
 ![ToadTowersBanner](toadTowersBanner2.PNG)
