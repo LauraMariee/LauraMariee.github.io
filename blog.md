@@ -1,24 +1,19 @@
 # Development Blogs
 
 ## On Track to Party
-![On Track to party](trackTitle.png)
-[On Track to party blog](trackBlog.md)
-
 [![OnTrackToParty](trackTitle.png)](trackBlog.html)
 
 ## Toad Towers
-![Toad Towers](TTTitle.png)
-[Toad Towers Blog](ttBlog.md)
+[![ToadTowers](TTTitle.png)](ttBlog.html)
 
 ## Bearly a Heist
-![Bearly A Heist](intro2.png)
-[Bearly A Heist Blog](basBlog.md)
+[![Bearly A Heist](intro2.png)](basBlog.html)
+
 
 ## Virtual Online Shopping
-![Virtual Online Shopping](vosBanner.PNG)
-[Virtual Online Shopping Development Blog!](vosBlog.md)
+[![Virtual Online Shopping](vosBanner.PNG)](vosBlog.html)
+
 
 ## Penguin Paradise
-![Penguin Paradise](penguinBlog.png)
-[Penguin Paradise](ppBlog.md)
+[![Penguin Paradise](penguinBlog.png)](ppBlog.html)
 
