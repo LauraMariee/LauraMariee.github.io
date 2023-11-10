@@ -1,15 +1,15 @@
 # Development Blogs
 
 ## On Track to Party
-![Toad Towers](trackTitle.png)
-[Toad Towers Blog](trackBlog.md)
+![On Track to party](trackTitle.png)
+[On Track to party blog](trackBlog.md)
 
 ## Toad Towers
 ![Toad Towers](intro2.png)
 [Toad Towers Blog](ttBlog.md)
 
 ## Bearly a Heist
-![Bearly A Heist](intro2.png)
+![Bearly A Heist](BASTitle.png)
 [Bearly A Heist Blog](basBlog.md)
 
 ## Virtual Online Shopping
