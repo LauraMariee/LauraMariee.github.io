@@ -10,5 +10,6 @@
     <img src="/room.png">
     <p>Close up of room </p>
   </div>
+</div>
 
 [back to home](./index)
