@@ -1,8 +1,14 @@
-# Toad Towers - Behind the scenes
-
-![cover](ToadBanner.PNG)
+![cover](TTTitle.PNG)
 
 ## Visual Style
-![ToadTowersBanner](tower_research.png)
+<div class="gallery">
+  <div>
+    <img src="/tower_research.png">
+    <p>Researching camera angles</p>
+  </div>
+  <div>
+    <img src="/room.png">
+    <p>Close up of room </p>
+  </div>
 
 [back to home](./index)
