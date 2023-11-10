@@ -1,7 +1,7 @@
 # Development Blogs
 
 ## On Track to Party
-![On Track to party](trackTitle.png)(trackBlog.md)
+![On Track to party](trackTitle.png)
 [On Track to party blog](trackBlog.md)
 
 ## Toad Towers
