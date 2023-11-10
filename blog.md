@@ -4,6 +4,8 @@
 ![On Track to party](trackTitle.png)
 [On Track to party blog](trackBlog.md)
 
+[![OnTrackToParty](trackTitle.png 'track banner')](trackBlog.md)
+
 ## Toad Towers
 ![Toad Towers](TTTitle.png)
 [Toad Towers Blog](ttBlog.md)
