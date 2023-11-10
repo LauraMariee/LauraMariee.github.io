@@ -5,7 +5,7 @@
 [On Track to party blog](trackBlog.md)
 
 ## Toad Towers
-![Toad Towers](intro2.png)
+![Toad Towers](TTTitle.png)
 [Toad Towers Blog](ttBlog.md)
 
 ## Bearly a Heist
