@@ -36,7 +36,7 @@ Voxel
 
 #### <em>[by Duck Reaction (@duck-reaction)- Ludum Dare User](https://ldjam.com/users/duck-reaction)</em>
 <p>
-	<p>strong>"</strong>What HUUUGE work ! I’m so impressed by the result, it’s so difficult to make this kind of game during a jam 	muscle I think, there is all required features to make the game interesting.</p>
+	<p><strong>"</strong>What HUUUGE work ! I’m so impressed by the result, it’s so difficult to make this kind of game during a jam 	muscle I think, there is all required features to make the game interesting.</p>
 
 	<p>Voxel design is cute (specialy peeguins). With more animations and Fx the game could be very juicy and become a commercialgame.
 	There is an issue, sometimes, I can’t drop the building and it stuck on the mouse cursor. Great game !<strong>"</strong>
