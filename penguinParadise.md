@@ -26,7 +26,7 @@ Completed
 
 ## Reviews
 
-<em>[by ditam (@ditam](https://ldjam.com/users/ditam/)</em>
+<em>[by ditam (@ditam]) - Ludum Dare User(https://ldjam.com/users/ditam/)</em>
 <p>
 	<p>Holy Macaroni Penguins, what is this game!? There’s an incredible amount of content here for a jam game, congratulations! You start out with a couple of tents, then half an hour later you’re managing 100+ penguins and 13 different resources to build an ice-monument with robot penguins, crazy stuff…
 	</p>
@@ -36,15 +36,12 @@ Completed
 </p>
 
 
-<em>[by Duck Reaction (@duck-reaction)](https://ldjam.com/users/duck-reaction)</em>
+<em>[by Duck Reaction (@duck-reaction)- Ludum Dare User](https://ldjam.com/users/duck-reaction)</em>
 <p>
-	<p>What HUUUGE work ! I’m so impressed by the result, it’s so difficult to make this kind of game during a jam muscle
+	<p>What HUUUGE work ! I’m so impressed by the result, it’s so difficult to make this kind of game during a jam muscle I think, 		there is all required features to make the game interesting.</p>
 
-	I think, there is all required features to make the game interesting. Voxel design is cute (specialy peeguins). With more 	animations and Fx the game could be very juicy and become a commercial game.
-
-	There is an issue, sometimes, I can’t drop the building and it stuck on the mouse cursor.
-
-	Great game !
+	<p>Voxel design is cute (specialy peeguins). With more animations and Fx the game could be very juicy and become a commercialgame.
+	There is an issue, sometimes, I can’t drop the building and it stuck on the mouse cursor. Great game !
 	</p>
 </p>
 
