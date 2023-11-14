@@ -27,11 +27,11 @@ Voxel
 
 #### <em>[by ditam (@ditam) - Ludum Dare User](https://ldjam.com/users/ditam/)</em>
 <p>
-	<strong>"</strong>Holy Macaroni Penguins, what is this game!? There’s an incredible amount of content here for a jam game, 	congratulations! You start out with a couple of tents, then half an hour later you’re managing 100+ penguins and 13 different 	resources to build an ice-monument with robot penguins, crazy stuff…
+	<p><strong>"</strong>Holy Macaroni Penguins, what is this game!? There’s an incredible amount of content here for a jam game, 	congratulations! You start out with a couple of tents, then half an hour later you’re managing 100+ penguins and 13 different 	resources to build an ice-monument with robot penguins, crazy stuff…
 	</p>
 
-	<p>I can’t add much to what was already said above: QOL updates would be great, but ultimately I too just gave up at the monument 	after I couldn’t make it complete a single percent, even though it was consuming resources… The game has turned into a bit too 	much of an idle/clicker game by that point, but the progression and awe I felt until that point was outstanding. Hats 	off!<strong>"</strong>
-	</p>
+	<p>I can’t add much to what was already said above: QOL updates would be great, but ultimately I too just gave up at the monument 	after I couldn’t make it complete a single percent, even though it was consuming resources… The game has turned into a bit too 	much of an idle/clicker game by that point, but the progression and awe I felt until that point was outstanding. Hats 	off!<strong>"</strong></p>
+	
 </p>
 
 
