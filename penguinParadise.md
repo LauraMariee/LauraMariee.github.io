@@ -11,7 +11,8 @@ First on the surface of the planet, but sooner or later digging into the well se
 
 
 ## Link to play!
-[Play here](https://green-game-17.gitlab.io/penguin-paradise-ld48-freeze)
+- [Play Jam version here](https://green-game-17.gitlab.io/penguin-paradise-ld48-freeze)
+- [Play Post Jam here](https://gitlab.com/green-game-17/penguin-paradise)
 
 ## Engine:
 Godot
