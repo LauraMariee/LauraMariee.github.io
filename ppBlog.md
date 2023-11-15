@@ -4,10 +4,12 @@
 	Penguins because there was a range of different specis, they are cute and known to be in more than Ice areas.
 </p>
 <p> - Art Style:
+	<div>
 	- Voxel because it was new to me and more poular games such as minecraft were using similar art style.
 		General USP for the game jam community. 
 	- Also quick and better suited to prototyping. Software is also open source.
 	- Link to Magica Voxel.
+	</div>
 </p> 	
 <p> - Mechanics:
 	- Town builder/Idle Game because as a team we enjoy strategy games and I wanted to put a cute spin on it. 
