@@ -10,7 +10,7 @@
 - Voxel because it was new to the team and I and more poular games such as minecraft were using similar art style.
 - General USP for the game jam community. 
 - Also quick and better suited to prototyping. Software is also open source.
-- ![Link to Magica Voxel](https://ephtracy.github.io/)
+- [Link to Magica Voxel](https://ephtracy.github.io/)
 
 
 ### Mechanics:
