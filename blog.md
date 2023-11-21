@@ -1,6 +1,5 @@
 # Development Blogs
 
-
 ## Catch A Cat
 [![catch A Cat](placeholder.png)](catBlog.html)
 
