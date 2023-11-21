@@ -11,7 +11,7 @@ Recruit up to six of your friends to help you ensure the packages stay on schedu
 
 
 ## Link to play!
-[Download Link](https://greenopal-studio.gitlab.io/youre-doing-crate/)
+[Play Jam version here](https://greenopal-studio.gitlab.io/youre-doing-crate/)
 
 ## Properties
 Size: <br>
@@ -30,7 +30,7 @@ Voxel/Low Poly 3D
 
 #### <em>[Emaigualmc2_art (@emaigualmc2-art) - Ludum Dare User](https://ldjam.com/users/emaigualmc2-art/)</em>
 <p>
-	<p><strong>"</strong>Excellent game! I really liked the idea and how they implemented the mechanics, I was really surprised by all the content they were able to put into the game in such a short time, great job! I really liked the low poly art, I would love to see this game more polished. The only thing I could tell you is that visually the UI is not fully implemented, it is difficult to distinguish the objects on the shelves (some are very small) and the font they used is not very legible, just details! Congratulations! beautiful game!xD
+	<p><strong>"</strong>Excellent game! I really liked the idea and how they implemented the mechanics, I was really surprised by all the content they were able to put into the game in such a short time, great job! I really liked the low poly art, I would love to see this game more polished. The only thing I could tell you is that visually the UI is not fully implemented, it is difficult to distinguish the objects on the shelves (some are very small) and the font they used is not very legible, just details! Congratulations! beautiful game! xD
 	<strong>"</strong></p>
 </p>
 
