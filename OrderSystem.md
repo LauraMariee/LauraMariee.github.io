@@ -8,4 +8,3 @@ Visual Basic
 ## Concept:
 
 - [Back to applications](applications.md)
-a
