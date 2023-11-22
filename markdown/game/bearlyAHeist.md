@@ -23,4 +23,4 @@ Complete
 
 
 
-- [Back to projects](games.md)
+- [Back to projects](/markdown/core/games.html)

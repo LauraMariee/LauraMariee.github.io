@@ -23,4 +23,4 @@ Completed
 
 ![TimelessForestGameplay](/images/timelessForest/Timeless_Forest.PNG)
 
-[Back to games](games.md)
+[Back to games](/markdown/core/games.html)

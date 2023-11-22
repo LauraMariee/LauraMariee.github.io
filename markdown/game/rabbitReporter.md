@@ -51,4 +51,4 @@ I see a lot of potential here!
 
 
 
-- [Back to projects](projects.md)
+- [Back to projects](/markdown/core/games.html)

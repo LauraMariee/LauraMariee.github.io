@@ -27,4 +27,4 @@ Mechanics: Space Bar to jump.
 
 ![FloorIsLavaBanner](gameplayFIL.PNG)
 
-- [Back to games](games.md)
+- [Back to games](/markdown/core/games.html)

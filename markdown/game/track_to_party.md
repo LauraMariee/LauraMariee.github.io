@@ -41,4 +41,4 @@ Complete
 ![banner](/images/trackToParty/trainGif.gif)
 
 
-- [Back to games](games.md)
+- [Back to games](/markdown/core/games.html)

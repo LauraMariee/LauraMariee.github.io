@@ -20,4 +20,4 @@ Minimalistic 3D Models and textures.
 ## Current Status
 In Progress
 
-- [Back to games](games.md)
+- [Back to games](/markdown/core/games.html)

@@ -39,4 +39,4 @@ Completed
 
 ![ToadTowersBanner](/images/toadTowers/toadTowersBanner2.PNG)
 
-[Back to games](games.md)
+[Back to games](/markdown/core/games.html)

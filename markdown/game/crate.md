@@ -48,4 +48,4 @@ Voxel/Low Poly 3D
 
 
 
-- [Back to games](games.md)
+- [Back to games](/markdown/core/games.html)

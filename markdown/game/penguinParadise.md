@@ -54,4 +54,4 @@ Voxel
 
 ![PenguinParidise](/images/penguinParadise/penguinBanner2.png)
 
-[Back to games](games.md)
+[Back to games](/markdown/core/games.html)
