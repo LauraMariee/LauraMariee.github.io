@@ -40,6 +40,6 @@
   </div>
 
 
-[back to home](./index)
+- [back to home](./index)
 
-[back to Virtual Online Shopping](./vosBlog)
+- [back to Virtual Online Shopping](./vosBlog)

@@ -35,4 +35,4 @@ Mechanics: Arrow keys to move, Space key to interact.
 
 ![WhileSushiGameplay](whileSushiGameplay.PNG)
 
-[Back to projects](projects.md)
+- [Back to games](games.md)

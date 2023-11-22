@@ -54,4 +54,4 @@ Voxel
 
 ![PenguinParidise](penguinBanner2.png)
 
-[Back to projects](projects.md)
+[Back to games](games.md)

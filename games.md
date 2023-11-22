@@ -1,4 +1,4 @@
-# Projects
+# Games!
 
 ## Ludum Dare 54 - Rabbit Reporter!
 ![rabbit_reporter](rabbit_screen.png)
@@ -29,12 +29,6 @@ Text adventure following a bear who attempts to steal back the claw.
 ![Ludum Dare 49](toadTowersBanner2.PNG)
 This is a tower building game where you have to keep the frog clients happy and battle the elements.  
 [More Details](toadTowers.md)
-
-## Virtual Online Shopping
-![Virtual Online Shopping](vosBanner.PNG)
-This is a VR application which simulates clothes and how they fit 
-on a customised model. 
-[More Details](VOS.md)
 
 ## Ludum Dare 48 - Penguin Paradise
 ![Ludum Dare 48](penguin_screenshot.PNG)

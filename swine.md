@@ -40,4 +40,4 @@ Complete
 ![banner](gameplay.png)
 
 
-[Back to projects](projects.md)
+- [Back to games](games.md)

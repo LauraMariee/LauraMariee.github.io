@@ -20,4 +20,4 @@ Minimalistic 3D Models and textures.
 ## Current Status
 In Progress
 
-[Back to projects](projects.md)
+- [Back to games](games.md)

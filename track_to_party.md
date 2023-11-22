@@ -11,7 +11,7 @@ Be warned! Every journey between stations only takes 10 seconds, not a lot of ti
 
 
 ## Link to play!
-[Download Link](https://green-game-17.gitlab.io/on-track-to-party/)
+[Web Link](https://green-game-17.gitlab.io/on-track-to-party/)
 
 ## Properties
 Size: <br>
@@ -41,4 +41,4 @@ Complete
 ![banner](trainGif.gif)
 
 
-[Back to projects](projects.md)
+- [Back to games](games.md)
