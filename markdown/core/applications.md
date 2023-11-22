@@ -12,7 +12,7 @@ on a customised model.
 [More Details](/markdown/application/VOS.html)
 
 ## Order System
-![Order System](/images/orderSystem/OS.PNG)
+![Order System](/images/orderSystem/OS.png)
 This is a VB ordering system which allows the user to submit orders to a database.
 [More Details](/markdown/application/OrderSystem.html)
 

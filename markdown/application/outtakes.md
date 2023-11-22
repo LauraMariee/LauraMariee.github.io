@@ -40,6 +40,6 @@
   </div>
 
 
-- [back to home](./index)
+- [back to home](/markdown/core/applications.md)
 
 - [back to Virtual Online Shopping](/markdown/blog/vosBlog.html)
