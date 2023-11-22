@@ -37,7 +37,7 @@
     <p> Winter Farming</p>
   </div>
   <div>
-    <img src="/images/art/cover.jpg">
+    <img src="/images/VOS/cover.jpg">
     <p>Virtual Online Shopping Concept </p>
   </div>
   <div>
