@@ -1,7 +1,7 @@
 # Applications
 
 ## Catch A Cat!
-![Catch A Cat](/images/catchACat/OS.png)
+![Catch A Cat](/images/catchACat/placeholder.png)
 Collection of projects which showcase use of an ASP.net backend, companion app and game! 
 [More Details](/markdown/application/CatchACat.md)
 
@@ -12,7 +12,7 @@ on a customised model.
 [More Details](/markdown/application/VOS.md)
 
 ## Order System
-![Order System](/images/OS.PNG)
+![Order System](/images/orderSystem/OS.PNG)
 This is a VB ordering system which allows the user to submit orders to a database.
 [More Details](/markdown/application/OrderSystem.md)
 
