@@ -3,7 +3,7 @@
 ## Ludum Dare 54 - Rabbit Reporter!
 ![rabbit_reporter](/images/rabbbitReporter/rabbit_screen.png)
 Follow Ricky Reporter Rabbit on his journalistic adventures to find out the local scoop!
-[More Details](/markdown/game/rabbitReporter.md)
+[More Details](/markdown/game/rabbitReporter.html)
 
 ## Ludum Dare 53 - You're doing crate!
 ![youre_doing_crate](/images/crate/crate_title.png)
