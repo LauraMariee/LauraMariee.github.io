@@ -1,6 +1,6 @@
 # You're doing crate!
 
-![banner](crate_title.png)
+![banner](/images/crate/crate_title.png)
 
 ## Introduction
 Seagulls, couch coop and deliveries - all in one neat package. 

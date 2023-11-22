@@ -1,5 +1,5 @@
 # Timeless Forest
-![TimelessForestBanner](Timeless_Forest_Menu.PNG)
+![TimelessForestBanner](/images/timelessForest/Timeless_Forest_Menu.PNG)
 
 ## Link to play!
 [Download Link](https://github.com/LauraMariee/Timeless-Forest/releases/latest)
@@ -21,6 +21,6 @@ Pixel - Not mine
 ## Current Status:
 Completed 
 
-![TimelessForestGameplay](Timeless_Forest.PNG)
+![TimelessForestGameplay](/images/timelessForest/Timeless_Forest.PNG)
 
-- [Back to games](games.md)
+[Back to games](games.md)

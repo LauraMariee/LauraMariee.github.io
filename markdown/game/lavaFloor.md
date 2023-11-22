@@ -1,6 +1,6 @@
 # The Floor is Lava! 
 
-![FloorIsLavaBanner](lavaFloor.PNG)
+![FloorIsLavaBanner](/images/floorIsLava/lavaFloor.PNG)
 
 ## Link to play!
 [Download Link](https://github.com/LauraMariee/GameProject-Floor-is-Lava/releases/latest)

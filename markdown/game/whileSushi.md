@@ -1,6 +1,6 @@
 # Ludum Dare 47 - While(Sushi) 
 
-![WhileSushiBanner](whilesushiMenu.PNG)
+![WhileSushiBanner](/images/whileSushi/whilesushiMenu.PNG)
 
 ## Introduction
 “Bröther, I require the sushi!” 🍣
@@ -33,6 +33,6 @@ Mechanics: Arrow keys to move, Space key to interact.
 -@LauraMariee - Art
 -[Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
 
-![WhileSushiGameplay](whileSushiGameplay.PNG)
+![WhileSushiGameplay](/images/whileSushi/whileSushiGameplay.PNG)
 
 - [Back to games](games.md)

@@ -1,6 +1,6 @@
 # Ludum Dare 49 - Toad Towers
 
-![ToadTowersBanner](ToadBanner.PNG)
+![ToadTowersBanner](/images/toadTowers/ToadBanner.PNG)
 
 
 ## Introduction
@@ -37,6 +37,6 @@ Completed
 - [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
 
 
-![ToadTowersBanner](toadTowersBanner2.PNG)
+![ToadTowersBanner](/images/toadTowers/toadTowersBanner2.PNG)
 
 [Back to games](games.md)

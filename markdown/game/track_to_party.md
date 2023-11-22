@@ -1,6 +1,6 @@
 # On track to Party! 
 
-![banner](resourcesandpassengers.png)
+![banner](/images/trackToParty/resourcesandpassengers.png)
 
 ## Introduction
 Do you like trains? You can find them right here in this game!
@@ -38,7 +38,7 @@ Complete
 - [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music 
 
 
-![banner](trainGif.gif)
+![banner](/images/trackToParty/trainGif.gif)
 
 
 - [Back to games](games.md)

@@ -1,6 +1,6 @@
 # Rabbit Reporter!
 
-![banner](newspaper.png)
+![banner](/images/rabbbitReporter/newspaper.png)
 
 ## Introduction
 They said it could not be done! A Visual Novel game with branching dialogue timelines and hand painted assets, all in one jam game?

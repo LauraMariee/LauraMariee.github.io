@@ -1,6 +1,6 @@
 # Ludum Dare 48 - Penguin Paradise
 
-![PenguinParadiseBanner](penguinBanner.png)
+![PenguinParadiseBanner](/images/penguinParadise/penguinBanner.png)
 
 ## Introduction
 “Well Well Well, if it isn’t the consequences of trying to go deeper and deeper into reality….”
@@ -52,6 +52,6 @@ Voxel
 - @LauraMariee - Art
 - [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music
 
-![PenguinParidise](penguinBanner2.png)
+![PenguinParidise](/images/penguinParadise/penguinBanner2.png)
 
 [Back to games](games.md)

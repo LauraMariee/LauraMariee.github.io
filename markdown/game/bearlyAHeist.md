@@ -1,6 +1,6 @@
 # Bearly a heist
 
-![bearBanner](intro2.png)
+![bearBanner](/images/bearlyAHeist/intro2.png)
 
 ## Link to play!
 [Download Link](https://green-game-17.gitlab.io/bearly-a-heist/)
@@ -23,4 +23,4 @@ Complete
 
 
 
-[Back to projects](games.md)
+- [Back to projects](games.md)

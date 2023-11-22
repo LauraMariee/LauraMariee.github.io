@@ -1,5 +1,5 @@
 # Duck Game
-![DuckGameBanner](duckGame.png)
+![DuckGameBanner](/images/duckGame/duckGame.PNG)
 
 ## Link to play!
 Coming Soon!

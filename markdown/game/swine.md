@@ -1,6 +1,6 @@
 # The Maze of Swineton
 
-![banner](main_menu.jpg)
+![banner](/images/swineston/main_menu.jpg)
 
 ## Introduction
 Controlling the mythical maze, you need to delay the hordes of adventurers from reaching the end of the maze and unleashing the dark, secret [REDACTED] monster kept within.
@@ -37,7 +37,7 @@ Complete
 - [Losch](https://www.youtube.com/channel/UC8R6r7tm6vPO8pl5gFyLVHg) - Music 
 
 
-![banner](gameplay.png)
+![banner](/images/swineston/gameplay.png)
 
 
 - [Back to games](games.md)
