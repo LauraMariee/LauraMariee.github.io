@@ -7,4 +7,4 @@ Visual Basic
 
 ## Concept:
 
-- [Back to applications](applications.md)
+- [Back to applications](/markdown/core/applications.md)

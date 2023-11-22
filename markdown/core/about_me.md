@@ -2,7 +2,7 @@
 
 Hey! I'm Laura and I'm a developer based in Frankfurt.
 
-![Image Text](me.jpg)
+![Image Text](/images/Core/me.jpg)
 
 ## Contact me via: 
 - email: [laura@lwilkinson.dev](mailto:laura@lwilkinson.dev)

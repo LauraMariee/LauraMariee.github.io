@@ -1,6 +1,6 @@
 # Virtual Online Shopping
 
-![Virtual Online Shopping](vosBanner.PNG)
+![Virtual Online Shopping](/images/VOS/vosBanner.PNG)
 
 ## Engine:
 Unity
@@ -12,8 +12,8 @@ VR Cloth physics simulation
 
 
 ## Documentation:
-[See the blog and outtakes!](vosBlog.md)
+[See the blog and outtakes!](/markdown/blog/vosBlog.md)
 
-![Virtual Online Shopping](vosbanner2.PNG)
+![Virtual Online Shopping](/images/VOS/vosbanner2.PNG)
 
-- [Back to applications](applications.md)
+- [Back to applications](/markdown/core/applications.md)
