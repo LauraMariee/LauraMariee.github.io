@@ -1,8 +1,8 @@
 # Blog
 
-![cover](cover.jpg)
+![cover](/images/VOS/cover.jpg)
 
-[Development Outtakes](./outtakes)
+[Development Outtakes](/markdown/application/outtakes)
 
 ## Week 1:
 Environment:

@@ -12,8 +12,8 @@ VR Cloth physics simulation
 
 
 ## Documentation:
-[See the blog and outtakes!](/markdown/blog/vosBlog.md)
+[See the blog and outtakes!](/markdown/blog/vosBlog.html)
 
 ![Virtual Online Shopping](/images/VOS/vosbanner2.PNG)
 
-- [Back to applications](/markdown/core/applications.md)
+- [Back to applications](/markdown/core/applications.html)

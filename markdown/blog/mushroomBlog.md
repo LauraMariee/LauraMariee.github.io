@@ -1,6 +1,6 @@
 # Blog
 
-![shroom cover](shroom_homescreen.gif)
+![shroom cover](/images/detectiveShroom/shroom_homescreen.gif)
 
 ## Post 1:
 Concept Art: 

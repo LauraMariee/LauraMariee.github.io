@@ -42,4 +42,4 @@
 
 - [back to home](./index)
 
-- [back to Virtual Online Shopping](/markdown/blog/vosBlog.md)
+- [back to Virtual Online Shopping](/markdown/blog/vosBlog.html)
