@@ -162,4 +162,4 @@ Model, rigged and textured a pair of jeans.
   
 
 
-- [back to home](./index)
+- [back to home](/markdown/core/applications.html)

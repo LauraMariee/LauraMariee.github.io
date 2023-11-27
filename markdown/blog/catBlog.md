@@ -14,6 +14,11 @@ The appropriate repositories are:
 - [CatchACat_CompanionApp](https://github.com/LauraMariee/CatchACat_CompanionApp)
 - [CatchACat_MainGame](https://github.com/LauraMariee/CatchACat_MainGame)
 
+
+
+Design Process: 
+- [Figma Link](https://www.figma.com/file/Eu9JW2krFXB2X9IBqOtdfj/CatchACat?type=design&node-id=0%3A1&mode=design&t=rprtC9171JagUS2b-1)
+
 More info to come! 
 
-[back to home](./index)
+[back to home](/markdown/core/applications.html)

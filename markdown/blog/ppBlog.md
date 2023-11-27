@@ -41,4 +41,4 @@ Early Images:
 
 
 - [Project Page](penguinParadise.html)
-- [back to home](./index)
+- [back to home](/markdown/core/games.html)

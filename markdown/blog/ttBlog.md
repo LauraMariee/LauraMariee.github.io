@@ -12,4 +12,4 @@
   </div>
 </div>
 
-- [back to home](./index)
+- [back to home](/markdown/core/games.html)

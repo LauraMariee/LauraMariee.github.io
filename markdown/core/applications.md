@@ -3,7 +3,7 @@
 ## Catch A Cat!
 ![Catch A Cat](/images/catchACat/placeholder.png)
 Collection of projects which showcase use of an ASP.net backend, companion app and game! 
-[More Details](/markdown/application/CatchACat.html)
+[More Details](/markdown/blog/catBlog.html)
 
 ## Virtual Online Shopping
 ![Virtual Online Shopping](/images/VOS/vosBanner.PNG)
