@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2ad34e0afb6565e2e133033d7de7231fa1de0899dc296c05a1108db6e708c81
-size 165
+title: lwilkinson.dev
+description: Portfolio and blog site.
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-midnight
