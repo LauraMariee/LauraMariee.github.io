@@ -21,7 +21,7 @@ This is a tower defence game where you have trap the pigs, so they don't free th
 [More Details](/markdown/game/swine.html)
 
 ## AberCompSoc Game Jam 2021- Bearly a Heist
-![CompSocGameJam21](cover.png)
+![CompSocGameJam21](/images/bearlyAHeist/cover.png)
 Text adventure following a bear who attempts to steal back the claw.
 [More Details](/markdown/game/bearlyAHeist.html)
 
