@@ -1,7 +1,3 @@
-by Emaigualmc2_art (@emaigualmc2-art):
-Excellent game! I really liked the idea and how they implemented the mechanics, I was really surprised by all the content they were able to put into the game in such a short time, great job! I really liked the low poly art, I would love to see this game more polished. The only thing I could tell you is that visually the UI is not fully implemented, it is difficult to distinguish the objects on the shelves (some are very small) and the font they used is not very legible, just details! Congratulations! beautiful game!xD
-
-
-
-by JunaGames (@junagames):
-Classic gameplay was pretty happy with the graphics and themes I really like the UI design for the game good job! Had some bugs pop up but nothing crazy
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf069b2859ce14963491862d272233ab384b9677258e2cb5ae7ab503cfc8b739
+size 751

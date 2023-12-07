@@ -1,10 +1,3 @@
-by BlueCalx (@bluecalx):
-A nice relaxing/puzzle game. A bit laggy upon card selection on my side. There is a lot of levels and a nice variety of card, quite impressive for a jam ! I just wish i could see my frogs populating the city :D I felt it was a bit off the theme though, as the event to check my tower stability weren’t occuring very often.
-
-GG and thanks for the game!
-
-
-
-
-by tetrapteryx (@tetrapteryx):
-This is a cool idea! The UI is a little awkward to use, but the concept is strong, and the frogs are super cute. This is an impressive amount of work for a jam!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b573c1e9ccd90e1a0355841e2c1e63a4d347a9f6524df33dd9f4bc623973917
+size 583

@@ -40,7 +40,7 @@ I see a lot of potential here!
 
 #### <em>[by Geckoo1337 (@geckoo1337) - Ludum Dare User](https://ldjam.com/users/geckoo1337)</em>
 <p>
-	<p><strong>"</strong>Good game with a strange concept, but a clever use of the theme. I really liked the mechanic where you assembled your newspaper. Unusual aesthetic for a solid entry. Well done. Thank you. I wish you the best ++</p>
+	<p><strong>"</strong>Good game with a strange concept, but a clever use of the theme. I really liked the mechanic where you assembled your newspaper. Unusual aesthetic for a solid entry. Well done. Thank you. I wish you the best ++<strong>"</strong></p>
 
 </p>
 

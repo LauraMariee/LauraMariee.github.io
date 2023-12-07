@@ -1,10 +1,3 @@
-by Sarah Alexa (@sarah-alexa):
-A really interesting concept here. I will admit I found it a little tough to figure out what was going on once I was into the game but I managed to win a couple of times! I love the idea of just travelling around by rail conducting all of your business that way so this was great to see. The visual style is great btw, very pleasing on the eye. You’ve managed to implement quite a lot in here which is really impressive for a jam!
-
-
-by Sheol (@sheol):
-Very interesting take on the theme and overall a very interesting take on a resource management type of game! Had to read the instructions to figure out stuff but once I did it was nice to play. Overall extremely great job!
-
-
-by Wizcas (@wizcas):
-The voxel art and motion blur looks nice. Congrats on making so many contents! That’s unbelieveable. I hope there’s more info on the UI, such as profits and losses, so that I don’t have to take a pen to remember all the stocks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a889273e57090a5c7cd0b2e803690731f738a0f49acf2631747087022bec395
+size 974

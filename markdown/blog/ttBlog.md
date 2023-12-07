@@ -1,15 +1,3 @@
-![cover](TTTitle.PNG)
-
-## Visual Style
-<div class="gallery">
-  <div>
-    <img src="/tower_research.png">
-    <p>Researching camera angles</p>
-  </div>
-  <div>
-    <img src="/room.png">
-    <p>Close up of room </p>
-  </div>
-</div>
-
-- [back to home](/markdown/core/games.html)
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb021b1debb45819c0595a57b53fd8a7ee2f6e704325085f7c1fce86956cfa95
+size 290

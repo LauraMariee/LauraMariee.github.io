@@ -1,5 +1,3 @@
-by Junber (@junber):
-Wow there seem to be a lot of things and mechanics in this game with pigs being able to see traps being placed, monsters you can place, trap disarming, some traps being multi-use and some single-use with clean-up etc. But as a player it was a bit hard to find out how everything works and it seems like it’s possible to be good at this game while ignoring most of mechanics too. Also pigs appear pretty slowly, making the pace of the game similarly too slow for my taste. And there should be a way out of being soft locked because a pig saw a trap: At least monsters should still be able to attack them or something. But, again, the amount of content is really impressive and I think there is a really great game in here by just tuning some variables and slight changes. The art and music are also really neat. Good job!
-
-by Chris McKnight (@chris-mcknight):
-I love dungeon build in games. I like how the traps can be disarmed and spotted by other mob classes. Would be nice to see some less random movement from the mobs to make use of this mechanic. All in all great game :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f425f76c3169fb299a3358077f74102a77df8c93d97153df4a09dce0b48768c
+size 1103
