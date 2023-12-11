@@ -28,7 +28,6 @@ Design Process:
 - Started Figma design for login screen
 
 ![Current Design](/images/catchACat/overview.png)
-![Current Design](/images/catchACat/detailView.png)
 
 #### Companion App ToDO 
 - Get correct values from login text boxes
@@ -44,13 +43,13 @@ Design Process:
 
 <div class="gallery">
   <div>
-    ![Current Design](/images/catchACat/api1.png)
+    <img src="/images/catchACat/api1.png">
   </div>
   <div>
-    ![Current Design](/images/catchACat/api2.png)
+    <img src="/images/catchACat/api2.png">
   </div>
   <div>
-    ![Current Design](/images/catchACat/api3.png)
+    <img src="/images/catchACat/api3.png">
   </div>
 </div>
 	
