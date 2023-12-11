@@ -27,6 +27,9 @@ Design Process:
 - Added localization structure for German and English
 - Started Figma design for login screen
 
+![Current Design](/images/catchACat/overview.png)
+![Current Design](/images/catchACat/detailView.png)
+
 #### Companion App ToDO 
 - Get correct values from login text boxes
 - Localize login screen 
@@ -37,9 +40,19 @@ Design Process:
 	- Cat table
 	- Player Table
 	- Caught Cat Table
+- Working API calls and local server
+<div>
+	![Current Design](/images/catchACat/api1.png)
+	![Current Design](/images/catchACat/api2.png)
+	![Current Design](/images/catchACat/api3.png)
+</div>
+
 
 #### Backend ToDO 
-- Fix dependencies to build project
+- Create ERD for the database 
+- Link the database tables together
+
+
 
 
 More info to come! 
