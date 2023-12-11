@@ -11,6 +11,7 @@ The main premise is to:
 There is a project board [linked here](https://github.com/users/LauraMariee/projects/2.html).
 
 The appropriate repositories are:
+- [CatchACat_MainGame](https://github.com/LauraMariee/CatchACat_Backend)
 - [CatchACat_CompanionApp](https://github.com/LauraMariee/CatchACat_CompanionApp)
 - [CatchACat_MainGame](https://github.com/LauraMariee/CatchACat_MainGame)
 
