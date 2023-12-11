@@ -41,11 +41,22 @@ Design Process:
 	- Player Table
 	- Caught Cat Table
 - Working API calls and local server
-<div>
-	![Current Design](/images/catchACat/api1.png)
-	![Current Design](/images/catchACat/api2.png)
-	![Current Design](/images/catchACat/api3.png)
+
+<div class="gallery">
+  <div>
+    ![Current Design](/images/catchACat/api1.png)
+  </div>
+  <div>
+    ![Current Design](/images/catchACat/api2.png)
+  </div>
+  <div>
+    ![Current Design](/images/catchACat/api3.png)
+  </div>
 </div>
+	
+	
+	
+
 
 
 #### Backend ToDO 
