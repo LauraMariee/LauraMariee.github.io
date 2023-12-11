@@ -21,13 +21,17 @@ Design Process:
 
 ## Current Progress
 
+<div class="gallery">
+  <div>
+      <img src="/images/catchACat/overview.png">
+  </div>
+</div>
+
 ### Companion App 
 - Fixed UI state machine
 - Updated Login screen to check text values
 - Added localization structure for German and English
 - Started Figma design for login screen
-
-![Current Design](/images/catchACat/overview.png)
 
 #### Companion App ToDO 
 - Get correct values from login text boxes
@@ -53,10 +57,6 @@ Design Process:
   </div>
 </div>
 	
-	
-	
-
-
 
 #### Backend ToDO 
 - Create ERD for the database 
