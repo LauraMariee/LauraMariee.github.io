@@ -1,5 +1,10 @@
 # Games!
 
+## Ludum Dare 55 - Celestial Panda!
+![celestialPanda](/images/celestialPanda/star.png)
+Use the power of star constellations and sacrifices to the island gods to solve this myster
+[More Details](/markdown/game/celestialPanda.html)
+
 ## Ludum Dare 54 - Rabbit Reporter!
 ![rabbit_reporter](/images/rabbbitReporter/rabbit_screen.png)
 Follow Ricky Reporter Rabbit on his journalistic adventures to find out the local scoop!
