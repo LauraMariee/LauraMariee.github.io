@@ -8,7 +8,7 @@ Help Hexie with her potions by collecting fresh ingredients and brewing them up 
 Each potion can have a range of flavours, effects and all of this information is stored in Hexie’s Nekonomicon!
 
 ## Link to play!
-[Play here](https://gitlab.com/greenopal-studio/potions-on-paws-ld-57-freeze)
+[Play here](https://lucavazz.itch.io/potions-on-paws)
 
 ## Engine:
 Godot
